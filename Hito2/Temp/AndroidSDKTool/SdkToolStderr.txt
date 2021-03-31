@@ -1,0 +1,1 @@
+Warning: File C:\Users\Usuario\.android\repositories.cfg could not be loaded.
